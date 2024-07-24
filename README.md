@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donabey&label=Profile%20views&color=0e75b6&style=flat" alt="donabey" /> </p>
 
-- 🌱 I’m currently learning **tensorflow, Hadoop, AWS EMR, Apaceh Spark**
+- 🌱 I’m currently learning **tensorflow, Hadoop, AWS EMR, Apache Spark**
   
 - 📚 I’m currently studing for **AWS Certified Cloud Practitioner**
 
