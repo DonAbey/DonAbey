@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **tensorflow, Hadoop, AWS EMR, Apache Spark**
   
-- 📚 I’m currently studing for **AWS Certified Cloud Practitioner**
+- 📚 I’m currently working on a project using **Google Cloud Platform - DialogFlow CX / Vertex AI / Agent Builder / Nodejs / React**
 
 - 📫 How to reach me **abthaveesh@gmail.com**
 
