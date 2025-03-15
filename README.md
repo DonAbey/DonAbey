@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Don</h1>
+<h1 align="center">Hi 👋, I'm Don Abeynayake</h1>
 <h3 align="center">IT Graduate | Cloud Computing & AI Enthusiast | Software Developer </h3>
 <img align="center" alt="Coding" width="" src="https://github.com/user-attachments/assets/c753631d-84e2-4d02-bb65-a0644c181cc2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donabey&label=Profile%20views&color=0e75b6&style=flat" alt="donabey" /> </p>
 
-- 🌱 I’m currently learning **tensorflow, Hadoop, AWS EMR, Apache Spark**
+- 🌱 I’m currently preparing myself for **AWS Certifications**
   
-- 📚 I’m currently working on a project using **Google Cloud Platform - DialogFlow CX / Vertex AI / Agent Builder / Nodejs / React**
+- 🚀 **I’m currently focused on enhancing my skills in AWS cloud services, exploring its core offerings and best practices.**
 
 - 📫 How to reach me **abthaveesh@gmail.com**
 
