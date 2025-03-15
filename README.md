@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Don</h1>
-<h3 align="center">Enthusiastic IT Master's Scholar at RMIT University | Melbourne</h3>
+<h3 align="center">IT Graduate | Cloud Computing & AI Enthusiast | Software Developer </h3>
 <img align="center" alt="Coding" width="" src="https://github.com/user-attachments/assets/c753631d-84e2-4d02-bb65-a0644c181cc2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donabey&label=Profile%20views&color=0e75b6&style=flat" alt="donabey" /> </p>
